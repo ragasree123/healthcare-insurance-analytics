@@ -1,1 +1,1 @@
-"# healthcare-insurance-analytics" 
+Analysing CMS Hospital Readmissions data for 600 US hospitals to identify financial exposure from Medicare penalty programmes. Found that 43% of hospitals are penalised for excess readmissions, with COPD and Heart Failure driving the highest penalties in the Northeast and South. Recommended renegotiating contracts with the top 50 penalised hospitals.
